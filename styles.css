@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+body {
+    font-family: 'Bangers', cursive;
+    margin: 0;
+    padding: 0;
+    background-image: url('https://i.pinimg.com/originals/0b/43/2c/0b432cb8a2c444cc3adb65f4fee64b9c.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+    color: #FFD700;
+    text-shadow: 2px 2px #000000;
+}
+
+header {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+    font-size: 3em;
+    margin: 0;
+}
+
+main {
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+#intro {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+#workout-plan {
+    background-color: rgba(0, 0, 0, 0.7);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.workout-day {
+    margin-bottom: 20px;
+    padding: 10px;
+    background-color: rgba(255, 165, 0, 0.3);
+    border-radius: 5px;
+}
+
+.workout-day h3 {
+    margin-top: 0;
+}
+
+button {
+    background-color: #FF4500;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+    font-family: 'Bangers', cursive;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #FF6347;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.7);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
