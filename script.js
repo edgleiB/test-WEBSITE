@@ -25,7 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 '40 Flexões de Braço (Aquecimento)',
                 '3X15 Supino com halter',
                 '3x15 Supino inclinado com Barra',
-                '3x15 Crucifixo na polia',
+                '3x21 Cross 7Alta/7Meio/7Baixa',
                 '3x15 Elevação lateral c/ elevação frontal',
                 '3x15 Encolhimento de ombros com barra atrás',
                 '3x15 Desenvolvimento unilateral com halter',
@@ -64,7 +64,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 '40 Flexões de Braço (Aquecimento)',
                 '3X15 Supino com halter',
                 '3x15 Supino inclinado com Barra',
-                '3x15 Crucifixo na polia',
+                '3x21 Cross 7Alta/7Meio/7Baixa',
                 '3x15 Elevação lateral c/ elevação frontal',
                 '3x15 Encolhimento de ombros com barra atrás',
                 '3x15 Desenvolvimento unilateral com halter',
@@ -75,7 +75,7 @@ document.addEventListener('DOMContentLoaded', function() {
         {
             day: 'Sexta-feira',
             exercises: [
-                '2x45s Levantamento sumô coom halter (aquecimento)',
+                '2x45s Levantamento sumô com halter (aquecimento)',
                 '3x15 Mesa flexora',
                 '3x15 Stiff com barra',
                 '3x15 Levantamento sumô com barra',
